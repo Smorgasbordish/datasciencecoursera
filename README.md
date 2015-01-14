@@ -1,2 +1,2 @@
 # datasciencecoursera
-Created for the coursera data sceince course.
+Created for the coursera data science course.
